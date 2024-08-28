@@ -1,0 +1,34 @@
+magnetic-op:
+  send-random-password-with-register-message: true
+  random-password-lenght: 8
+  debug: false
+  spawn:
+    setted: false
+    world:
+    x:
+    y:
+    z:
+
+
+messages:
+  prefix: '&3&lMagnetic Op &8&l⊱ &r'
+  kick:
+    incorect-password: '&c&lMAGNETIC OP<nl>&7Girilen şifre yanlış !'
+  tips:
+    simple-password-generator: '&7Rastgele oluşturulan örnek şifre: &f<password>'
+  error:
+    already-authed: '&7Zaten giriş yapmışsın...'
+    no-permission: '&7Bunun için yeterli izine sahip değilsin !'
+    spawn-not-found: '&7Başlangıç bulunamadu...'
+    not-enough-argument: '&7Kullanım geçersiz: &f/Kaydol &b<Şifre>'
+    already-exists: '&7Daha önce kayıt olmuşsun !'
+    not-exists: '&7Lütfen ilk önce kayıt/giriş yapınız.'
+  warnings:
+    please-log-in: '&7Lütfen şifreni belirt. &f(/Giriş <password>)'
+    only-from-console: '&7Bu komut yanlızca consoldan kullanılabilir !'
+    please-register: '&7Lütfen kayıt olmak için şifreni gir &f(/Kaydol <password>)'
+  console:
+    only-in-game: 'Bu işlemi konsoldan gerçekleştiremezsin !'
+  success:
+    registered: '&7Kayıt oldun !'
+    authed: '&7Şifren doğru, giriş işlemi gerçekleştirildi...'

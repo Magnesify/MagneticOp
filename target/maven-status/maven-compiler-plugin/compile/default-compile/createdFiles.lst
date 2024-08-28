@@ -1,0 +1,11 @@
+com\magnesify\magneticOp\managers\Operator.class
+com\magnesify\magneticOp\commands\Manage.class
+com\magnesify\magneticOp\managers\Spawn.class
+com\magnesify\magneticOp\commands\Login.class
+com\magnesify\magneticOp\events\OperatorJoinEvent.class
+com\magnesify\magneticOp\managers\Console.class
+com\magnesify\magneticOp\managers\Password.class
+com\magnesify\magneticOp\managers\DatabaseManager.class
+com\magnesify\magneticOp\MagneticOp.class
+com\magnesify\magneticOp\managers\Chat.class
+com\magnesify\magneticOp\commands\Register.class

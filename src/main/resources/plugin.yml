@@ -1,0 +1,14 @@
+name: MagneticOp
+version: '19'
+main: com.magnesify.magneticOp.MagneticOp
+prefix: MagneticOp
+load: STARTUP
+authors: [ HaciMertGokhan ]
+website: magnesify.com
+commands:
+  Giriş:
+    description: Giriş komutu.
+  Kaydol:
+    description: Kayıt olma komutu.
+  MagneticOp:
+    description: Ana yönetim komutu.
